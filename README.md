@@ -9,9 +9,9 @@ Novatel GPS Driver Installation:
 $ sudo apt-get install ros-VERSION-novatel-gps-driver
 ```
 
-Livow ROS Driver2 Installation:
+Livox ROS Driver2 Installation:
 
-Follow the official reopository of [Livox-ros-driver2](https://github.com/Livox-SDK/livox_ros_driver2)
+Follow the official repository of [Livox-ros-driver2](https://github.com/Livox-SDK/livox_ros_driver2)
 
 ## 1. How to install, Build, and Run
 ```
@@ -56,6 +56,7 @@ If your data directory is represented as follows, you are now ready to enjoy the
 
 Enjoy it:) 
 
-## Maintainer
+## Maintainer & About HeLiPR dataset
 
 Wooseong Yang (yellowish@snu.ac.kr)
+Minwoo Jung (moonshot@snu.ac.kr)
