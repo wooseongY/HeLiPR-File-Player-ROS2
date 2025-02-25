@@ -58,5 +58,5 @@ Enjoy it:)
 
 ## Maintainer & About HeLiPR dataset
 
-Wooseong Yang (yellowish@snu.ac.kr)
+Wooseong Yang (wseongy15@gmail.com)
 Minwoo Jung (moonshot@snu.ac.kr)
